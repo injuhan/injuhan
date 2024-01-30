@@ -24,6 +24,6 @@ I plan on reading at least one line of code a day and figuring out things like:
 
 If you want to improve your development skills by reading the code written by other developers and talk with me on various topics related to development, please contact here.
 
-📫 haninjuin@gmail.com or <a href='https://injuhan.github.io/'>blog</a>
+📫 haninju95@gmail.com or <a href='https://heather-dev.tistory.com/'>blog</a>
 
 2022.12.18.
